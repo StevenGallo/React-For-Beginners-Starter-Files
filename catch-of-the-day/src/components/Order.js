@@ -2,9 +2,9 @@ import React from 'react';
 
 class Order extends React.Component {
   render(){
-    return{
+    return(
       <p>order</p>
-    }
+    )
   }
 }
 
